@@ -55,7 +55,7 @@
 
 ![Preview](previews/wide_round.png)
 
-[Download](mods/Hoop_Earrings/ComandPromt_Wide_Round_Hoop Earrings.package)
+[Download](mods/Hoop_Earrings/ComandPromt_Wide_Round_Hoop_Earrings.package)
 
 - ### Classic Hoop Earrings 3.5 inches
 
