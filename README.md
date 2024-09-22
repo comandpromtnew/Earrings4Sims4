@@ -180,25 +180,25 @@
 
 ![Preview](previews/heart.png)
 
-[Download](mods/Symbols/Hoop_Earrings/ComandPromt_Big_Classic_Heart_Earrings.package)
+[Download](mods/Symbols/ComandPromt_Big_Classic_Heart_Earrings.package)
 
 - ### Africa Earrings
 
 ![Preview](previews/africa.png)
 
-[Download](mods/Symbols/Hoop_Earrings/ComandPromt_Africa_Earrings.package)
+[Download](mods/Symbols/ComandPromt_Africa_Earrings.package)
 
 - ### Big Chain Star
 
 ![Preview](previews/chain_star.png)
 
-[Download](mods/Symbols/Hoop_Earrings/ComandPromt_Big_Chain_Star.package)
+[Download](mods/Symbols/ComandPromt_Big_Chain_Star.package)
 
 - ### Simple Chain
 
 ![Preview](previews/simple_chain.png)
 
-[Download](mods/Symbols/Hoop_Earrings/ComandPromt_Simple_Chain_Earrings.package)
+[Download](mods/Symbols/ComandPromt_Simple_Chain_Earrings.package)
 
 ## Pearls
 
@@ -212,4 +212,4 @@
 
 ![Preview](previews/big_pearl_2.png)
 
-[Download](mods/Symbols/Hoop_Earrings/Big_Pearl_Earrings.package)
+[Download](mods/Pearls/ComandPromt_Big_Pearl_Earrings.package)
