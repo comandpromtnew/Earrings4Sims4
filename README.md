@@ -164,6 +164,13 @@
 
 [Download](mods/Symbols/ComandPromt_Rabbit_Earring.package)
 
+- ### Gitan Earring
+
+![Preview](previews/gitan.png)
+
+[Download](mods/Symbols/ComandPromt_Gitan_Earring.package)
+
+
 - ### Serpent
 
 ![Preview](previews/serpent.png)
