@@ -2,6 +2,11 @@
 
 ## Huge Hoop Earrings
 
+- ### Classic 4.5 inches
+![Preview](previews/4_5_inches.png)
+
+[Download](mods/Hoop_Earrings/Huge_Hoops/ComandPromt_Hoop_Earring_4_5_inches.package)
+
 - ### Classic 5 inches
 ![Preview](previews/5_inches.png)
 
@@ -32,6 +37,12 @@
 [Download](mods/Hoop_Earrings/Huge_Hoops/ComandPromt_Extremedly_Huge_Hoop_Earrings.package)
 
 ## Hoop Earrings
+
+- ### Big Classic Steiner Chain
+
+![Preview](previews/big_classic_steiner_fair.png)
+
+[Download](mods/Hoop_Earrings/Big_Classic_Steiner_Chain.package)
 
 - ### 5 Mid Hoops
 
