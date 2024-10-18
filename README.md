@@ -38,6 +38,24 @@
 
 ## Hoop Earrings
 
+- ### Steiner Dance Fair
+
+![Preview](previews/steiner_dance.png)
+
+[Download](mods/Hoop_Earrings/Steiner_Dance_Fair.package)
+
+- ### Steiner With Figure
+
+![Preview](previews/steiner_figure.png)
+
+[Download](mods/Hoop_Earrings/Steiner_With_Figure.package)
+
+- ### Open Steiner Chain
+
+![Preview](previews/open_steiner.png)
+
+[Download](mods/Hoop_Earrings/ComandPromt_Open_Steiner_Chain.package)
+
 - ### Big Classic Steiner Chain
 
 ![Preview](previews/big_classic_steiner_fair.png)
@@ -226,7 +244,7 @@
 
 [Download](mods/Pearls/ComandPromt_Big_Pearl.package)
 
-- ### Big Chain Star
+- ### Big Pearl Earring
 
 ![Preview](previews/big_pearl_2.png)
 
