@@ -38,6 +38,12 @@
 
 ## Hoop Earrings
 
+- ### Clock Wide Earring
+
+![Preview](previews/clock.png)
+
+[Download](mods/Hoop_Earrings/Clock_Wide_Earring.package)
+
 - ### Steiner Dance Fair
 
 ![Preview](previews/steiner_dance.png)
@@ -187,6 +193,12 @@
 
 ## Symbols
 
+- ### Fish Bones
+
+![Preview](previews/fish.png)
+
+[Download](mods/Symbols/Fish_Bones_Earrings.package)
+
 - ### Playboy
 
 ![Preview](previews/playboy.png)
@@ -249,3 +261,17 @@
 ![Preview](previews/big_pearl_2.png)
 
 [Download](mods/Pearls/ComandPromt_Big_Pearl_Earrings.package)
+
+## Others
+
+- ### Girl Earring
+
+![Preview](previews/girl_earring.png)
+
+[Download](mods/Others/Girl_Earring.package)
+
+- ### Vintage Dangle Earring
+
+![Preview](previews/vintage_dangle.png)
+
+[Download](mods/Others/Vintage_Dangle_Earring.package)
