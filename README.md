@@ -193,6 +193,18 @@
 
 ## Symbols
 
+- ### Other Earring Sheet
+
+![Preview](previews/other_sheet.png)
+
+[Download](mods/Symbols/Other_Earring_Sheet.package)
+
+- ### Sheet Earring
+
+![Preview](previews/hoja.png)
+
+[Download](mods/Symbols/Sheet_Earring.package)
+
 - ### Fish Bones
 
 ![Preview](previews/fish.png)
